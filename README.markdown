@@ -1,3 +1,7 @@
+Shopify Fork
+============
+This fork exists to backport a security fix to the 0.10.25 version. Version [0.10.25.1](https://github.com/Shopify/lua-nginx-module/compare/v0.10.25...v0.10.25.1) was created with the desired patch.
+
 Name
 ====
 
